@@ -1,4 +1,4 @@
-library: https://github.com/olikraus/u8glib
+library: https://github.com/adafruit/Adafruit_SSD1306
 
 Making Film: https://www.youtube.com/embed/SX8Dt4TiJXM
 
